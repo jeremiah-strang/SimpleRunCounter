@@ -1,0 +1,16 @@
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.csprojAssemblyReference.cache
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.Overlay.resources
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.Properties.Resources.resources
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.csproj.GenerateResource.cache
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\bin\Debug\SimpleRunCounter.exe.config
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\bin\Debug\SimpleRunCounter.exe
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\bin\Debug\SimpleRunCounter.pdb
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.exe
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.pdb
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\bin\Debug\SimpleRunCounter.exe.manifest
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\bin\Debug\SimpleRunCounter.application
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.exe.manifest
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.application
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.RunDataForm.resources
+C:\Users\Jeremiah\Dev\SimpleRunCounter\SimpleRunCounter\obj\Debug\SimpleRunCounter.SettingsForm.resources
